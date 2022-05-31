@@ -24,9 +24,9 @@ $deviceid= "$random1-936d-974b-a9ef-$random2$random3";
 $deviceid2 = "\"$deviceid\"";
 echo "\n";
 echo "\n";
-echo "| Welcome to ALFAGIFT ACCOUNT GENERATOR!! \n";
-echo "| Simpel script by Arie \n";
-echo "| Wa 085782946968 \n";
+echo "|  ALFAGIFT TIR!! \n";
+echo "| Project \n";
+echo "| westo gas poll \n";
 echo "| --------------------------- \n";
 if(file_exists("config.json")){
     $arr2 = json_decode(file_get_contents('config.json'), true);
